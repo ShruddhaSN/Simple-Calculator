@@ -1,6 +1,7 @@
-# ** Simple Calculator **
+# Simple Calculator
 
-> This is a simple calculator which will perform all the simple arithmetic operations (Addition, Subtraction, Multiplication and Division). The numbers and operations can be controlled from keyboard. (Enter for =, esc for c)
+This is a simple calculator that performs basic arithmetic operations (Addition, Subtraction, Multiplication, and Division).  
+The numbers and operations can be controlled from the keyboard. (Enter for `=` and `Esc` for `C`).
 
 # Technologies Used
 - Python (tkinter)
